@@ -10,6 +10,7 @@ Valuation Process:
 	1. Calibrate CIR Process
 			MAXIMUM LIKELIHOOD ESTIMATION OF THE COX-INGERSOLL-ROSS PROCESS: THE MATLAB IMPLEMENTATION
 			----Kamil Klad´ıvko
+		CIRestimation.m, CIRobjective1.m and CIRobjectiv2.m are matlab files discussed in the above paper.
 	2. Simulate Short Rates Using Calibrated Parameters
 	
 	3. Simulate Cash Flows Using Richard Roll Model (Prepayment Model)
